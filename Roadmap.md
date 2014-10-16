@@ -1,5 +1,5 @@
 ### 01 November 2014 ###
-*Release of v0.1*
+**Release of v0.1** "Codename Phoenix"
 
 Content:
 - Explaination of the basic file structure of all software products (language independent)
