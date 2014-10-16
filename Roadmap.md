@@ -2,6 +2,6 @@
 **Release of v0.1** "Codename Phoenix"
 
 Content:
-- Explaination of the basic file structure of all software products (language independent)
+- Explanation of the basic file structure of all software products (language independent)
 - a few mandatory coding standards that must be followed
 - a few optional coding standards that should be followed (and might become mandatory one day)
