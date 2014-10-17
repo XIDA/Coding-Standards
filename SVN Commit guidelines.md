@@ -62,7 +62,8 @@ Scope could be anything specifying place or element of the commit change(s).
 All breaking changes have to be mentioned in footer with the description of the change, justification and migration notes
 
 ```
-BREAKING CHANGE: Id editing feature temporarily removed As a work around, change the id in XML using replace all or friends
+BREAKING CHANGE: Id editing feature temporarily removed
+As a work around, change the id in XML using replace all or friends
 ```
 #### Referencing issues
 
