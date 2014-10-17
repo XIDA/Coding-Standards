@@ -5,3 +5,5 @@ Content:
 - Explanation of the basic file structure of all software products (language independent)
 - a few mandatory coding standards that must be followed
 - a few optional coding standards that should be followed (and might become mandatory one day)
+- subversion and git commit messages should use to a defined standard
+- subversion commit messages will be automatically checked if the standard was used
