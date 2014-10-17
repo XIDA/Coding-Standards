@@ -1,4 +1,4 @@
-SVN commit guideline
+# SVN commit guidelines
 
 Based on: [angular commit messages document  &raquo;](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit?pli=1)
 
@@ -20,21 +20,22 @@ Based on: [angular commit messages document  &raquo;](https://docs.google.com/do
  * **FIX** (bug fix)
  * **DOCS** (documentation)
  * **STYLE** (formatting, missing semi-colons, etc.)
-  * **TEST** (when creating tests)
+ * **TEST** (when creating tests)
  * **CLEANUP** (remove unnecessary code, files)
  * **IMPROVE** (improvement, e.g. enhanced feature)
  * **TOOLS** (build, tools changes etc.)
  * **SVN** (ignore list changed, svn properties changed etc.)
- * **RELEASE**  (created a new .exe, .ipa, .apk etc.) There is no need to add the actual realeased file.
- But there should be a commit for every release so it is easier for old projects to track down what the last version was, that was send to the client
+ * **RELEASE**  (created a new .exe, .ipa, .apk etc.) There is no need to add the actual realeased file. But there should be a commit for every release so it is easier for old projects to track down what the last version was, that was send to the client
+
 
 Release messages need to have the following format:
+```
 RELEASE (<scope>): <versionnumber>
 <BLANK LINE>
 <body>
 <BLANK LINE>
 <footer>
- 
+```
 
 #### Allowed `<scope>`
 
@@ -61,8 +62,7 @@ Scope could be anything specifying place or element of the commit change(s).
 All breaking changes have to be mentioned in footer with the description of the change, justification and migration notes
 
 ```
-BREAKING CHANGE: Id editing feature temporarily removed
-    As a work around, change the id in XML using replace all or friends
+BREAKING CHANGE: Id editing feature temporarily removed As a work around, change the id in XML using replace all or friends
 ```
 #### Referencing issues
 
@@ -79,7 +79,7 @@ or in case of multiple issues:
 ```
 STYLE (notifications): change notifications
 
-cnahge warning notification colors:
+change warning notification colors:
 - error notifications are now red
 - warning and info notifications are now dark-yellow
 ```
@@ -93,5 +93,4 @@ FEATURE (editor): add emmet plug-in to editor
 - add emmet plug-in settings
 
 Closes #351
-CHANGES: plug-in settings and tweaks can be done from `settings` area
 ```
