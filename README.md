@@ -15,3 +15,5 @@ This will be the standard every new project will use.
 
 
 [Roadmap] (https://github.com/XIDA/Coding-Standards/blob/master/Roadmap.md)
+
+[Definitions] (https://github.com/XIDA/Coding-Standards/blob/master/Definitons.md)
