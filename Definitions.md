@@ -1,3 +1,5 @@
+# Definitions #
+
 The following definitions are used troughout our coding standards:
 
 **Mandatory rule / standard**

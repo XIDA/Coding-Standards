@@ -1,4 +1,4 @@
-Coding-Standards
+Why we need Coding-Standards
 ================
 
 This is the place where we store the coding standards that our code at XIDA complies with.
