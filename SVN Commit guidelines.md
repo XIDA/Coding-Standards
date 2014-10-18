@@ -26,6 +26,7 @@ Based on: [angular commit messages document  &raquo;](https://docs.google.com/do
  * **TOOLS** (build, tools changes etc.)
  * **SVN** (ignore list changed, svn properties changed etc.)
  * **RELEASE**  (created a new .exe, .ipa, .apk etc.) There is no need to add the actual realeased file. But there should be a commit for every release so it is easier for old projects to track down what the last version was, that was send to the client
+ * **CONTENT** (added images, html, pdf, video etc.)
 
 
 Release messages need to have the following format:
