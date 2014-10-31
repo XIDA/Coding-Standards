@@ -5,8 +5,8 @@ This is a step by step guide to learn everything about our standards and to prep
 Please read the following documents:
 
 - [Definitions](Definitions.md)
-- [Prepare your code files](How%20to%20prepare%20your%20code.md)
-- [SVN Commit guidelines](SVN%20Commit%20guidelines.md)
+- [Prepare your code files](HowToPrepareYourCode.md)
+- [SVN Commit guidelines](SVNCommitGuidelines.md)
 - [File structures](filestructures/README.md)
 
 
