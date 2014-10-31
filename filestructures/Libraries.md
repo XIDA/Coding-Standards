@@ -1,4 +1,4 @@
-# Libraries #
+# Libraries
 
 ## Location: ##
 /libraries/{libraryname}/
@@ -11,3 +11,4 @@ Of course XIDA components can become libraries too, when they are used accross m
 
 ## Characteristics ##
 same as [component](Components.md)
+

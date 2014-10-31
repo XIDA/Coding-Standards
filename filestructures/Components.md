@@ -1,4 +1,4 @@
-# Components #
+# Components
 
 ## Location: ##
 /components/{componentname}/

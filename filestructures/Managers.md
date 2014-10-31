@@ -1,4 +1,4 @@
-# Managers #
+# Managers
 
 ## Location: ##
 /managers/{managername}.{extension}
@@ -13,6 +13,7 @@ A manager should be used when you need access to functions or values from a lot 
 - all public manager functions must grant static access
 - if the manager needs a setup function to work properly: *setup()*
 - a manager should have a specific purpose
+
 
 
 

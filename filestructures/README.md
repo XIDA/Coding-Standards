@@ -1,4 +1,4 @@
-# Project file structures #
+# Project file structures
 
 XIDA projects follow a specific file and folder structure which proved beneficial in past projects.
 
@@ -21,3 +21,5 @@ While for an Objective-C project all files might be .h and .m, for a php project
 
 There are more folders needed besides those listed above.
 Those will be explained in the following documents. 
+
+

@@ -1,4 +1,4 @@
-# Styling #
+# Styling
 
 The following styling conventions are used troughout our coding standards:
 

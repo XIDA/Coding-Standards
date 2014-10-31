@@ -1,4 +1,4 @@
-# File assets #
+# File assets
 
 ## Locations: ##
 - /assets & /resources & /res

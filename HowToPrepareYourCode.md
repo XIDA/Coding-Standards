@@ -1,4 +1,4 @@
-# How to prepare your code #
+# How to prepare your code
 
 Every file that contains code should have a file comment with the coding standards version that were used to create it.
 

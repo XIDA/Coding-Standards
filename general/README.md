@@ -1,5 +1,4 @@
-General coding standards / best practices
-================
+# General coding standards / best practices
 
 This file defines some basic standards.
 

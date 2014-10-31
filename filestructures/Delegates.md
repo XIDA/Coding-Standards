@@ -1,4 +1,4 @@
-# Delegates #
+# Delegates
 
 ## Location: ##
 /delegates/{name}Delegate.{extension}
