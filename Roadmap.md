@@ -9,7 +9,8 @@ Content:
 - subversion and git commit messages should use to a defined standard
 - <del>subversion commit messages will be automatically checked if the standard was used</del> (skipped for next release)
 
-### 02 December 2014 ###
+
+### 01 December 2014 ###
 **Release of v0.2** "Codename [Mormo](http://en.wikipedia.org/wiki/Mormo)"
 
 Content:
