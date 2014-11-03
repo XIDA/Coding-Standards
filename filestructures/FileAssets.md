@@ -6,7 +6,7 @@
 
 
 ## Definition ##
-Almost every projects needs assets like jpge images, xml files and videos.
+Almost every project needs assets like jpge images, xml files and videos.
 Put them in one of the aboved named locations.
 If there is more than one file of any type, then create subfolders like
 /assets/images/test.jpg, /assets/images/test2.jpg or /assets/xml/start.xml, /assets/xml/test.xml. 
