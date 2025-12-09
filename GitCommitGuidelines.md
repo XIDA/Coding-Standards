@@ -32,6 +32,7 @@ Based on: [angular commit messages document  &raquo;](https://docs.google.com/do
  * **CI** (CI/CD pipeline changes, GitHub Actions, etc.)
  * **CHORE** (maintenance tasks, dependency updates, configs)
  * **AI** (prompt templates, model configurations, AI agent settings etc.)
+ * **EXAMPLE** (sample code, demo projects, usage demonstrations)
 
 
 Release messages need to have the following format:
