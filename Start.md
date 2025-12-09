@@ -6,7 +6,7 @@ Please read the following documents:
 
 - [Definitions](Definitions.md)
 - [Prepare your code files](HowToPrepareYourCode.md)
-- [SVN Commit guidelines](SVNCommitGuidelines.md)
+- [Git commit guidelines](GitCommitGuidelines.md)
 - [File structures](filestructures/README.md)
 
 

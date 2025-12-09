@@ -1,4 +1,4 @@
-# SVN commit guidelines
+# Git commit guidelines
 
 Based on: [angular commit messages document  &raquo;](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit?pli=1)
 
@@ -12,7 +12,7 @@ Based on: [angular commit messages document  &raquo;](https://docs.google.com/do
 <footer>
 ```
 
->Any line of the commit message cannot be longer 100 characters! This allows the message to be easier to read on github as well as in various git tools.
+>Any line of the commit message cannot be longer 100 characters! This allows the message to be easier to read on GitHub as well as in various Git tools.
 
 #### Allowed `<type>`
 
@@ -24,9 +24,14 @@ Based on: [angular commit messages document  &raquo;](https://docs.google.com/do
  * **CLEANUP** (remove unnecessary code, files)
  * **IMPROVE** (improvement, e.g. enhanced feature)
  * **TOOLS** (build, tools changes etc.)
- * **SVN** (ignore list changed, svn properties changed etc.)
- * **RELEASE**  (created a new .exe, .ipa, .apk etc.) There is no need to add the actual realeased file. But there should be a commit for every release so it is easier for old projects to track down what the last version was, that was send to the client
+ * **GIT** (.gitignore changed, Git configuration changed etc.)
+ * **RELEASE**  (created a new .exe, .ipa, .apk etc.) There is no need to add the actual released file. But there should be a commit for every release so it is easier for old projects to track down what the last version was, that was sent to the client
  * **CONTENT** (added images, html, pdf, video etc.)
+ * **REFACTOR** (code restructuring without changing external behavior)
+ * **PERF** (performance improvements)
+ * **CI** (CI/CD pipeline changes, GitHub Actions, etc.)
+ * **CHORE** (maintenance tasks, dependency updates, configs)
+ * **AI** (prompt templates, model configurations, AI agent settings etc.)
 
 
 Release messages need to have the following format:
@@ -41,6 +46,12 @@ RELEASE (<scope>): <versionnumber>
 #### Allowed `<scope>`
 
 Scope could be anything specifying place or element of the commit change(s).
+
+Examples:
+ * **Component names:** `header`, `sidebar`, `login-form`, `user-profile`
+ * **Feature areas:** `auth`, `payments`, `notifications`, `search`
+ * **File types:** `api`, `ui`, `database`, `config`
+ * **Layers:** `service`, `controller`, `model`, `view`
 
 #### Allowed `<subject>` text
 
