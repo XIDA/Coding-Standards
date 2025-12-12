@@ -5,7 +5,7 @@ Based on: [angular commit messages document  &raquo;](https://docs.google.com/do
 ## Format of the commit message
 
 ```
-<type>(<scope>): <subject>
+<type> (<scope>): <subject>
 <BLANK LINE>
 <body>
 <BLANK LINE>
